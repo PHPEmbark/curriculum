@@ -6,9 +6,25 @@ PHPEmbark is an accessible introduction to PHP for beginners. No previous progra
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
+## Requirements
+
+- A computer running Windows 7 or 8, OS X 10.6 or newer, or a Linux variant (we will assume Ubuntu Desktop for the purposes of this course)
+- The ability to navigate the filesystem, including creating and deleting files and folders
+- The ability to download and install software on your computer
+
+## Software used
+
+* [PHP 5.6]()
+    - We'll be using the built-in development HTTP server
+    - We will use SQLite databases
+* [Komodo Edit](http://komodoide.com/komodo-edit/)
+    - Komodo Edit is free, open source code editor that runs on all three platforms we are supporting
+* A web browser, like Firefox or Google Chrome
+
+
 ## Initial syllabus outline
 
-1. basic PHP
+1. Basic PHP
 
     Basic PHP should start with "hello world" and the change/refresh cycle
     then basic variables (container for a value)
