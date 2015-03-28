@@ -1,0 +1,6 @@
+1. assign your age to a variable, assign your name to a variable
+show your name and age on the webpage
+
+2. using this variable causes a php notice, fix it so the notice no longer appears (declare the variable to somethign before using it)
+
+2. using this variable causes an error, fix the exercise so the php file will work (has a number to begin teh variable)

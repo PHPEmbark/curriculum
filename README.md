@@ -1,6 +1,8 @@
 # PHPEmbark
 
-PHPEmbark is an accessible introduction to PHP for beginners. No previous programming experience is required.
+PHPEmbark is an open source, accessible introduction to PHP for beginners.
+
+No previous programming experience is required, and the teaching methods may not work as well for those with previous programming experience.
 
 ## License
 
