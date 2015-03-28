@@ -16,65 +16,19 @@ No previous programming experience is required, and the teaching methods may not
 
 ## Software used
 
-* [PHP 5.6]()
+* [PHP 5.6](http://php.net)
     - We'll be using the built-in development HTTP server
     - We will use SQLite databases
+    - We will use PDO for database communication
 * [Komodo Edit](http://komodoide.com/komodo-edit/)
     - Komodo Edit is free, open source code editor that runs on all three platforms we are supporting
 * A web browser, like Firefox or Google Chrome
+* [sqlite browser](http://sqlitebrowser.org/)
+ - Free Open source GUI for dealing with sqlite databases that runs on all three platforms we are supporting
+ 
+All windows software will be available as a portable install - simply drop the file in place and double click the included .bat file
+Sofware on (ubuntu) linux is easily installable with easily available packages
+Easy installers are available for the sofware on mac as well, for php upgrades to 5.6 possibly use http://php-osx.liip.ch
 
-
-## Initial syllabus outline
-
-1. Basic PHP
-
-    Basic PHP should start with "hello world" and the change/refresh cycle
-    then basic variables (container for a value)
-
-    Then on to:
-
-    1. booleans, numbers and math
-    2. strings and string functions
-    3. scalar vs. complex types and juggling types
-    3. basic arrays
-    4. basic objects
-    5. logic - if, else, foreach, for, while
-    6. basic functions
-    7. basic classes
-
-1. basic internet (http, request, response, basic html)
-
-    After "this is PHP" we should get into "this is the web"
-
-    1. HTTP, sockets, what the internet is and how it works in basic terms
-    2. request -> response and PHP (shared nothing)
-    3. basic html (here is your template for future pages)
-    4. PHP speaks http! (POST and GET and a sidenote on redirects)
-
-1. forms
-
-    Now we get into forms
-
-    1. basic forms (var dump our data)
-    1. basic security (all people are evil cats)
-    1. check input (validate)
-    1. escape output and separation of concerns
-    1. populating forms, errors, redirecting
-
-
-1. sqlite and databases
-
-    Databases!
-
-    Use - pdo? or sqlite3?
-
-    how much of db to do?
-
-1. crud
-
-    and then basic "write crud"
-
-### Follow ups
-1. CLI (with an repl)
-1. version control (git and github for windows/mac)
-1. advanced html and css
+## Teacher and Student Downloads
+Eventually we will have ready to go downloads for teachers (slides, handouts for printing, and helper notes), students (examples, exercises, handouts for viewing)
