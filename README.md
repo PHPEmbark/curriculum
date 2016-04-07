@@ -59,6 +59,19 @@ those restrained to 1 hour time slots.
 7. Composer and Libraries
 8. Advanced OOP
 
+## Resources
+
+As part of this curriculum, students will be walking through a stepped approach to building a journal application, while learning core concepts of developing with the PHP programming language.
+
+The full source of the journal application is provided at <https://github.com/PHPEmbark/journalapp>. Each branch in the repository represents a different lesson, each one building on the previous lessons.
+
+The curriculum also assumes a basic setup that is similar accross platforms and provides installation tools to achieve this setup.
+
+Students may download binaries for PHP, source code editors, and database tools, as well as zip packages of the journalapp lessons from the [releases page of the PHPEmbark/packages repository][release packages].
+
+- **[Download latest packages][release packages]**
+
+
 ## Setup Concerns
 
 ### Windows
@@ -82,3 +95,6 @@ The software chosen is available as .deb packages for Ubuntu and is easy to inst
 
 ## Teacher and Student Downloads
 Eventually we will have ready to go downloads for teachers (training, slides, how to present tips, handouts for printing, and helper notes), and students (examples, exercises, handouts for viewing, ready to run application)
+
+
+[release packages]: https://github.com/PHPEmbark/packages/releases/latest
