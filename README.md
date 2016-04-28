@@ -1,6 +1,6 @@
 # PHPEmbark
 
-PHPEmbark is an open source, accessible introduction to PHP for beginners.
+PHPEmbark is an open-source curriculum package for instructors to use for teaching an introduction to PHP to beginners.
 
 No previous programming experience for students is required, and the teaching methods may not work as well for those with previous programming experience.
 
